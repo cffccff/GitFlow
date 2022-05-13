@@ -1,1 +1,2 @@
 Sau khi code và hoàn thành feature.
+Fix bug gấp hoàn thành.
